@@ -11,7 +11,7 @@
    * <a href="#How-to-use"> How to use</a>
       * <a href="#Prerequisites"> Prerequisites</a>
       * <a href="#Running-the-app"> Running the app</a>
-      * <a href="#Running-the-server"> Running the app</a>
+      * <a href="#Running-the-server"> Running the server</a>
    * <a href="#Technologies"> Technologies</a>
    * <a href="#License"> License</a>
    * <a href="#Author"> Author</a>
