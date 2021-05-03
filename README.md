@@ -41,9 +41,6 @@
   <br />
   <input id="check-six" type="checkbox" checked/>
   <label for="check-six">Receive notification when a plant is in the watering time.</label>
-  <br />
-  <input id="check-seven" type="checkbox"/>
-  <label for="check-seven">Turn a little plant.</label>
 
   <h1 id="How-to-use">🤓How to use</h1>
 
